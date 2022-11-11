@@ -9,7 +9,7 @@ I code since i'm 9 I started on [Scratch](https://scratch.mit.edu/), Then learne
 (For the love of god don't make jokes of my username, I don't play Raft it's just a username I use because it resemble to my n ##ame)
 
 My guilded discord server: 
-<img src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fbadge%2FJjJAvX6E"/>
+<iframe src="https://www.guilded.gg/canvas_index.html?route=%2Fcanvas%2Fembed%2Fbadge%2FJjJAvX6E" width="206" height="48" frameborder="0" scrolling="no"/>
 
 ### Langs I love!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raft08&theme=radical&layout=compact">
@@ -20,6 +20,6 @@ My guilded discord server:
 
 # Some Stats 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raft08&show_icons=true&hide_border=false&title_color=31F9FF&icon_color=22C6CB&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="left" alt="Raft's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raft08&show_icons=true&hide_border=false&title_color=31F9FF&icon_color=22C6CB&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 I love to help! If you need help come to me! Hopefully I can help you!
