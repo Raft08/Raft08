@@ -8,11 +8,11 @@ I code since i'm 9 I started on [Scratch](https://scratch.mit.edu/), Then learne
 
 (For the love of god don't make jokes of my username, I don't play Raft it's just a username I use because it resemble to my name)
 
-### Langs I love!
+### Java.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raft08&theme=radical&layout=compact">
 
 
-(c# is missing :/, I did not use c# in one of my projects on GitHub)
+I can code in c# because it's Java Microsoft
 
 
 # Some Stats 
