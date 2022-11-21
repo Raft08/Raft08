@@ -6,8 +6,6 @@ Little sh*t from Belgium, i'm 14 Years old and plays to much Minecraft.
 
 I code since i'm 9 I started on [Scratch](https://scratch.mit.edu/), Then learned c# at 11 year old and finaly learned Java at 12 years.
 
-(For the love of god don't make jokes of my username, I don't play Raft it's just a username I use because it resemble to my name)
-
 ### Java.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raft08&theme=radical&layout=compact">
 
