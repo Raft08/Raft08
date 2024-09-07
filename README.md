@@ -14,8 +14,6 @@ Discord : `@RaftDev`
 
 ## Active Projects 📀
 - [AtlasWorld](https://github.com/AtlasWorldMC) - Scalable Mini-Game server made for modern Minecraft Versions.
-- [EterCube](https://github.com/EterCube) - Crossplatform Minecraft PvP-Faction server.
-- [CreatioMC](https://github.com/Raft08/CreatioMC) - Unofficial Server-side modding minecraft software, for minecraft. Without any code of Mojang. 
 
 ---
 
