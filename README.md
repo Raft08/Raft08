@@ -17,8 +17,8 @@ Discord : `@RaftDev`
 
 ---
 
-<img align="center" alt="Raft's Commonly used Libraries" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raft08&theme=radical&layout=compact">
+<img align="center" alt="Raft's Commonly used Libraries" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelgianDev&theme=radical&layout=compact">
 
 ## Some Stats 📈
 
-<img align="center" alt="Raft's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Raft08&show_icons=true&theme=transparent" />
+<img align="center" alt="Raft's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BelgianDev&show_icons=true&theme=transparent" />
